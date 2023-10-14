@@ -1,0 +1,23 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+  padding: 100px;
+  text-decoration: none;
+  list-style: none;
+  outline: none;
+  background-image: url(https://i.pinimg.com/1200x/57/f3/e9/57f3e9e3e44ee521ed74234c0dbb8e46.jpg);
+}
+.container{
+  background-color: rgb(26, 27, 27);
+  padding-top: 30px;
+
+}
+.grid{
+  display: grid;
+  margin-left: 0.5px;
+  grid-template-columns: repeat(4,1fr);
+  grid-gap: 0.2em;
+  justify-content: center;
+  background-color: rgb(26, 27, 27);
+
+}
