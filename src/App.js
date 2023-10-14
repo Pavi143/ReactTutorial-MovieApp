@@ -21,8 +21,8 @@ function App() {
     <>
       <Navbar bg='dark' expand='lg' variant='dark' fixed='top' style={{ width: '100%' }}>
         <Container fluid>
-          <Navbar.Brand href='https://www.themoviedb.org/movie'style={{fontFamily:'serif'},{fontWeight:'1000'}}>MovieDb App</Navbar.Brand>
-          <Navbar.Brand href='https://www.themoviedb.org/list/49435'style={{fontFamily:'serif'},{fontWeight:'1000'}}>Trending</Navbar.Brand>
+          <Navbar.Brand href='https://www.themoviedb.org/movie'style={{fontFamily:'serif',fontWeight:'1000'}}>MovieDb App</Navbar.Brand>
+          <Navbar.Brand href='https://www.themoviedb.org/list/49435'style={{fontFamily:'serif',fontWeight:'1000'}}>Trending</Navbar.Brand>
           <Navbar.Toggle aria-controls="navbarScroll">
             <Navbar.Collapse id="navbarScroll">
               <Nav className="me-auto my-2 my-lg-3" style={{ maxHeight: '100px' }}>
