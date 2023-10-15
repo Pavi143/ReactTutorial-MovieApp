@@ -1,5 +1,8 @@
 <h1>MovieDB React App</h1>
 
+<img src="https://raw.githubusercontent.com/pavi143/ReactTutorial-MovieApp/main/screenshots/output.png" alt="">
+
+
 
 
 This is a simple React application that fetches popular movie data from The Movie Database (TMDb) API and displays it in a grid format. Users can click on a movie to see more details in a modal dialog. The application also features a navigation bar with links to the TMDb website and a trending movies list.
@@ -26,11 +29,6 @@ To run this app on your local machine, you'll need to follow these steps:
    npm install
    ```
 
-   or
-
-   ```bash
-   yarn install
-   ```
 
 4. Start the development server:
 
@@ -38,11 +36,7 @@ To run this app on your local machine, you'll need to follow these steps:
    npm start
    ```
 
-   or
 
-   ```bash
-   yarn start
-   ```
 
 5. Open your web browser and access the app at `http://localhost:3000`.
 
